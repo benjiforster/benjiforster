@@ -5,7 +5,7 @@ Engineering Student @ Exeter College
 -------------------------------------------
 
 
-* ✉️ You can reach me at benjiforster.com.
+* ✉️ You can reach me at [benjiforster.com](https://benjiforster.com).
 
 ### Languages
 <p align="left">
