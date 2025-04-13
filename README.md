@@ -5,7 +5,7 @@ Engineering Student @ Exeter College
 -------------------------------------------
 
 
-* ✉️ You can reach me at [bj.forster@protonmail.com](mailto:bj.forster@protonmail.com)
+* ✉️ You can reach me at benjiforster.com.
 
 ### Languages
 <p align="left">
