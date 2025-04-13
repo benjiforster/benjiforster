@@ -1,4 +1,4 @@
-Hey 👋 I'm Ben Forster
+Hi I'm Benji Forster.
 ==================================
 
 Engineering Student @ Exeter College
